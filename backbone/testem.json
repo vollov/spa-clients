@@ -1,0 +1,6 @@
+{
+  "src_files": [
+    "app/js/app.js",
+    "test/unit/hello.test.js"
+  ]
+}
